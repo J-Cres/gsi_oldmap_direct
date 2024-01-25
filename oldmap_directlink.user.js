@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         oldmap_directlink
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-23
-// @description  try to take over the world!
-// @author       You
+// @version      2024-01-25
+// @description  get old GSI map direct link.
+// @author       jcres
 // @match        https://mapps.gsi.go.jp/contentsImageDisplay.do*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=gsi.go.jp
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=www.gsi.go.jp
 // @grant        none
 // ==/UserScript==
 
